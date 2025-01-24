@@ -1,1 +1,1 @@
-# mistral_bot
+# mistral_chat
