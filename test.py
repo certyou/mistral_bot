@@ -18,4 +18,6 @@ def ask(msg):
     )
     print(chat_response.choices[0].message.content)
 
-ask(input("une question : "))
+question = ""
+while question != "1":
+    ask(input("une question : "))
